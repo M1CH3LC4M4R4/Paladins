@@ -1,0 +1,25 @@
+.logo{
+    width: 20%;
+    height: 20%;
+}
+.postagem,.publicacao{
+    color: #eeeeee;
+    text-align: justify;
+    font-size: 18px;
+}
+.imgmkt{
+    margin-top: 12%;
+    width: 100%;
+}
+
+
+.imgtopo{
+    width: 90%;
+}
+
+.divtopo{
+    margin-top: 25%;
+}
+.hrx{
+    width: 50%;
+}
