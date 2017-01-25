@@ -71,4 +71,5 @@ require_once ("topo.php"); ?>
                 </div>
             </div>
             <!--FIM DA LINHA 2 -->
+<hr>
 <?php require_once ("rodape.php") ?>
